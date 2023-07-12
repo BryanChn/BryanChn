@@ -23,4 +23,4 @@ If you'd like to discuss collaboration opportunities, have any questions, or jus
 🚀 Passion and Dedication:
 I am passionate about software development and dedicated to delivering high-quality work. I enjoy tackling challenges, collaborating with talented individuals, and making a positive impact through technology.
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and projects. Don't forget to leave a ⭐️ if you find something interesting!****
+Thank you for visiting my GitHub profile! Feel free to explore my repositories and projects. Don't forget to leave a ⭐️ if you find something interesting !
