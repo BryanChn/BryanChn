@@ -46,7 +46,6 @@ Depuis, j'ai passé près d'un an en agence e-commerce à concevoir des **module
 | Projet | Ce que c'est | Stack |
 |---|---|---|
 | [on-mange-quoi](https://github.com/BryanChn/on-mange-quoi) | App mobile de vote pour choisir les repas du foyer | React Native, Expo, Supabase |
-| [Module_img_update](https://github.com/BryanChn/Module_img_update) | Module PrestaShop de mise à jour d'images par glisser-déposer dans le back-office | PHP, PrestaShop |
 | [portfolio](https://github.com/BryanChn/portfolio) | Mon portfolio : projets, compétences, contact | React, TypeScript |
 
 ## 🤝 Ma façon de travailler
